@@ -56,22 +56,22 @@ const PortfolioData = [
       },
     ],
   },
-  {
-    id: 4,
-    type: "video game project",
-    image: Image4,
-    tag: ["logo", "video"],
-    delayAnimation: "0",
-    modalDetails: [
-      {
-        project: "Website",
-        client: "Videohive",
-        language: " HTML, CSS, TailwindCSS, React.js",
-        preview: "www.vercel.com",
-        link: "https://video-game-with-json-server.vercel.app/",
-      },
-    ],
-  },
+  // {
+  //   id: 4,
+  //   type: "video game project",
+  //   image: Image4,
+  //   tag: ["logo", "video"],
+  //   delayAnimation: "0",
+  //   modalDetails: [
+  //     {
+  //       project: "Website",
+  //       client: "Videohive",
+  //       language: " HTML, CSS, TailwindCSS, React.js",
+  //       preview: "www.vercel.com",
+  //       link: "https://video-game-with-json-server.vercel.app/",
+  //     },
+  //   ],
+  // },
   {
     id: 5,
     type: "space tourism project",
